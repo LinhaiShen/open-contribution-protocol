@@ -16,7 +16,7 @@ The protocol should reward real-world contribution rather than financial power.
 
 Anyone should be able to participate.
 
-## Self-hosted Nodes
+## Self-Hosted Nodes
 
 Anyone should be able to run infrastructure.
 

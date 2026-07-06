@@ -24,7 +24,7 @@ They have also accumulated unprecedented control over:
 
 Workers, merchants and users increasingly depend on systems they cannot inspect, modify or govern.
 
-Food delivery riders, ride-hailing drivers, merchants and independent service providers create the real-world value, yet the rules are defined by centralized platforms.
+Food delivery couriers, ride-hailing drivers, merchants and independent service providers create the real-world value, yet the rules are defined by centralized platforms.
 
 We believe there should be another option.
 
@@ -95,4 +95,4 @@ Please begin with:
 - docs/problem.md
 - rfcs/README.md
 
-Open Issues and Pull Requests are encouraged.
+Open issues and pull requests are encouraged.

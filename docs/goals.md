@@ -2,7 +2,7 @@
 
 The protocol should eventually support:
 
-- ride sharing
+- ride-sharing
 - delivery
 - local services
 - product marketplaces

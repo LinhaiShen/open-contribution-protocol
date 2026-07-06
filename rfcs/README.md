@@ -10,7 +10,7 @@ Future RFCs may include topics such as:
 - reputation
 - settlement
 - contribution units
-- anti-sybil mechanisms
+- anti-Sybil mechanisms
 - governance
 - networking
 - product verification
