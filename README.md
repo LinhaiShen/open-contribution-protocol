@@ -1,5 +1,7 @@
 # Open Contribution Protocol (OCP)
 
+![Open Contribution Protocol community network](docs/assets/open-contribution-protocol-hero.png)
+
 Open Contribution Protocol (OCP) is an open-source initiative to explore a decentralized protocol for coordinating the exchange of real-world products and services without centralized platform control.
 
 This repository does **not** contain a finished solution.
